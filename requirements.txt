@@ -1,4 +1,5 @@
 fastapi
+bcrypt==4.0.1
 uvicorn[standard]
 python-jose[cryptography]
 passlib[bcrypt]
