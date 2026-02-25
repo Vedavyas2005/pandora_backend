@@ -9,3 +9,4 @@ supabase
 httpx
 groq
 email-validator
+pydantic[email]
